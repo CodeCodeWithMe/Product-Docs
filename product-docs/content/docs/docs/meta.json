@@ -1,0 +1,13 @@
+{
+  "title": "Getting Started",
+  "root": true,
+  "pages": [
+    "---Introduction---",
+    "index",
+    "others/contact",
+    "others/faq",
+    "---Products---",
+    "products/discord-translator",
+    "products/whatsapp-translator"
+  ]
+}

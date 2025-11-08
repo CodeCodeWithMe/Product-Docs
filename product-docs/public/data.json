@@ -1,0 +1,14 @@
+[
+  {
+    "id": "discord-translator",
+    "title": "Discord Translator",
+    "description": "Translate messages on Discord Web",
+    "url": "/docs/products/discord-translator"
+  },
+  {
+    "id": "whatsapp-translator",
+    "title": "WhatsApp Translator",
+    "description": "Translate messages on WhatsApp Web",
+    "url": "/docs/products/whatsapp-translator"
+  }
+]
